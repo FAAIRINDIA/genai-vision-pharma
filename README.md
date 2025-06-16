@@ -22,7 +22,7 @@ To develop a vision-based generative AI system capable of real-time image analys
 
 ---
 
-## ⚙System Architecture
+## System Architecture
 
 The proposed solution integrates the following modules:
 
@@ -33,19 +33,6 @@ The proposed solution integrates the following modules:
 5. **Reporting Module**: Generate logs, alerts, and compliance reports in real-time.
 
 *A detailed block diagram is available in the `diagrams/` folder.*
-
----
-
-## 🗂 Repository Structure
-genai-vision-pharma/
-├── data/ # Collected and curated datasets
-├── src/ # Core codebase and models
-├── diagrams/ # Block diagram and system architecture
-├── reports/ # Technical documentation, proposals
-├── requirements.txt # Python dependencies
-├── LICENSE
-└── README.md
-
 
 ---
 
