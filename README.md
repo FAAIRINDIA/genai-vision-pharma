@@ -33,8 +33,9 @@ The proposed solution integrates the following modules:
 5. **Reporting Module**: Generate logs, alerts, and compliance reports in real-time.
 
 *A detailed block diagram is available in the `diagrams/` folder.*
-
 ---
+![block diagram](flowchart.png)
+
 
 ## Datasets Collected
 
