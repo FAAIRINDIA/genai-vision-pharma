@@ -49,8 +49,8 @@ The proposed solution integrates the following modules:
 
 - **Smoke Anomaly Footage**  
   Generated and collected from public datasets and synthetic visual environments.
-
 ---
+Data can be accessed through : https://drive.google.com/drive/folders/1Qs0jh7KTzQawnNtX5yisuPdLJfMoD-ok?usp=sharing
 
 ## Algorithms and Tools Used
 
